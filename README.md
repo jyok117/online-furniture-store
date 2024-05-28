@@ -13,7 +13,7 @@ Testing and Deployment: Tested the database and interface to ensure functionalit
 
 # Functionalities
 User Registration and Login: Allows users to create accounts, log in, and manage their profiles.
-Dashboard: A user-friendly interface for browsing products, viewing details, and adding items to the cart.
+Dashboard: A user-friendly interface for browsing products, viewing details, and adding items to the cart. \n
 Shopping Cart: Manage cart items, apply discounts, and view total costs.
 Order Placement: Secure checkout process including payment and shipping details.
 Admin Panel: Access sales statistics and analytics tools to make informed business decisions.
