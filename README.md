@@ -19,12 +19,12 @@ This project aims to develop a comprehensive online office furniture store, comp
 - **Admin Panel**: Access sales statistics and analytics tools to make informed business decisions.
 
 ## Usage Guide
-1. **Register**: Create an account with email, password, and personal information.
-2. **Login**: Access your account using email and password.
-3. **Dashboard**: Browse and search for products, view product details, and add items to the cart.
-4. **Cart Management**: Modify quantities, apply offers, and view total costs.
-5. **Order Checkout**: Complete orders by providing shipping and payment details.
-6. **Admin Access**: Analyze sales statistics and customer data through the admin panel.
-7. **Logout**: End your session by clicking the logout button.
+- **Register**: Create an account with email, password, and personal information.
+- **Login**: Access your account using email and password.
+- **Dashboard**: Browse and search for products, view product details, and add items to the cart.
+- **Cart Management**: Modify quantities, apply offers, and view total costs.
+- **Order Checkout**: Complete orders by providing shipping and payment details.
+- **Admin Access**: Analyze sales statistics and customer data through the admin panel.
+- **Logout**: End your session by clicking the logout button.
 
 This project showcases the practical application of database management and web development techniques to create a functional e-commerce platform.
